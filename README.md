@@ -1,1 +1,1 @@
-## This Repo for practicing SOLID principlesi
+## This Repo for practicing SOLID principles
